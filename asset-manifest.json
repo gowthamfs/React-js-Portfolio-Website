@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/React-js-Portfolio-Website/static/css/main.afcc2841.css",
+    "main.js": "/React-js-Portfolio-Website/static/js/main.3bfd6111.js",
+    "static/media/hero-bg.png": "/React-js-Portfolio-Website/static/media/hero-bg.01d3ae19df4683080285.png",
+    "static/media/reactjs1.jpg": "/React-js-Portfolio-Website/static/media/reactjs1.f42346ae449c51289dbe.jpg",
+    "static/media/digital-marketing-website.png": "/React-js-Portfolio-Website/static/media/digital-marketing-website.7c23e844d9ba054b0a43.png",
+    "static/media/reactjs2.jpeg": "/React-js-Portfolio-Website/static/media/reactjs2.3d5b75edd1d5c22b57e3.jpeg",
+    "static/media/wall-clock.png": "/React-js-Portfolio-Website/static/media/wall-clock.46187c73c266e7b2cfbc.png",
+    "index.html": "/React-js-Portfolio-Website/index.html",
+    "main.afcc2841.css.map": "/React-js-Portfolio-Website/static/css/main.afcc2841.css.map",
+    "main.3bfd6111.js.map": "/React-js-Portfolio-Website/static/js/main.3bfd6111.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afcc2841.css",
+    "static/js/main.3bfd6111.js"
+  ]
+}
